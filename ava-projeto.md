@@ -5,7 +5,10 @@ title: "(Peso 4) Projeto"
 date: 2016-09-19 20:20:00 -0300
 ---
 
-Detalhes a serem definidos.
+- Equipes de 3 pessoas
+- Cada equipe deve escolher uma ideia de software que será projetado durante a disciplina
+  - Está sem ideia? Pense em um problema na sua casa, universidade, trabalho, cidade...
+  - Ainda sem ideia? Tente <http://nevonprojects.com/project-ideas/software-project-ideas/>
 
 Cronograma:
 
