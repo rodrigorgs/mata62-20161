@@ -17,3 +17,11 @@ Cronograma:
 - 03/10: 2ª entrega
 - 17/10: 3ª entrega
 - 24/10: 4ª entrega e apresentação
+
+Equipes:
+
+- ???: Renata, Andressa, Nailane
+- ???: Iago, Malu, Thamires
+- ???: Nicolas, Rafael, ...
+- ???: Gabriel, Roberto, Igor
+
