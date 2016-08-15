@@ -20,8 +20,10 @@ Cronograma:
 
 Equipes:
 
-- ???: Renata, Andressa, Nailane
-- ???: Iago, Malu, Thamires
-- ???: Nicolas, Rafael, ...
-- ???: Gabriel, Roberto, Igor
+- Dieta: Renata, Andressa, Nailane
+- Home Cook: Iago, Malu, Thamires
+- The Alchemist: Nicolas, Rafael, Guilherme
+- Wolfram Micro: Gabriel, Roberto, Igor
+- Compart. de Imagens Médicas: Raul, Erick, +1
+- ???: Fabio, Vitor
 
