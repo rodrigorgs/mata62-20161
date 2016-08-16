@@ -24,6 +24,6 @@ Equipes:
 - Home Cook: Iago, Malu, Thamires
 - The Alchemist: Nicolas, Rafael, Guilherme
 - Wolfram Micro: Gabriel, Roberto, Igor
-- Compart. de Imagens Médicas: Raul, Erick, +1
-- ???: Fabio, Vitor
+- Compart. de Imagens Médicas P2P: Raul, Erick, +1
+- Controle automotivo: Fabio, Vitor
 
