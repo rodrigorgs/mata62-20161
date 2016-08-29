@@ -11,7 +11,7 @@ Exemplo de diagrama de sequência na vida real: [diagrama de sequência do proto
 
 Vamos desenhar diagramas de sequência do jogo da forca. Primeiramente, baixe o [código-fonte do forca]({{site.baseurl}}/files/forca.zip).
 
-A seguir, use o [Astah](astah.net) para criar um modelo a partir do código Java.
+A seguir, use o [Astah](astah.net) para criar um modelo a partir do código Java.Caso esteja usando a versão Community, use [este arquivo]({{site.baseurl}}/files/forca-classes.asta) com as classes já importadas.
 
 Depois disso, desenhe um diagrama de sequência para o fluxo principal do jogo, implementado na classe `Main`, mostrando sua interação com objetos das classes `Campeonato`, `Jogador`, `Partida` e `Letra`.
 
