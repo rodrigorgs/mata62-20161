@@ -1,17 +1,17 @@
 ---
 layout: page
 categories: aula
-title: "Diagrama de sequência (prática)"
+title: "Diagrama de sequência (prática, vale ponto)"
 date: 2016-08-29 20:20:00 -0300
 ---
 
 Exemplo de diagrama de sequência na vida real: [diagrama de sequência do protocolo CAS]({{site.baseurl}}/files/cas-sequence.png).
 
-## Exercício
+## Exercício (enviar para rodrigo@dcc.ufba.br até 04/09, por equipe do projeto)
 
 Vamos desenhar diagramas de sequência do jogo da forca. Primeiramente, baixe o [código-fonte do forca]({{site.baseurl}}/files/forca.zip).
 
-A seguir, use o [Astah](astah.net) para criar um modelo a partir do código Java.Caso esteja usando a versão Community, use [este arquivo]({{site.baseurl}}/files/forca-classes.asta) com as classes já importadas.
+A seguir, use o [Astah](astah.net) para criar um modelo a partir do código Java. Caso esteja usando a versão Community, use [este arquivo]({{site.baseurl}}/files/forca-classes.asta) com as classes já importadas.
 
 Depois disso, desenhe um diagrama de sequência para o fluxo principal do jogo, implementado na classe `Main`, mostrando sua interação com objetos das classes `Campeonato`, `Jogador`, `Partida` e `Letra`.
 
