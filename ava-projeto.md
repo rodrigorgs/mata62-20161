@@ -10,15 +10,33 @@ date: 2016-09-19 20:20:00 -0300
   - Está sem ideia? Pense em um problema na sua casa, universidade, trabalho, cidade...
   - Ainda sem ideia? Tente <http://nevonprojects.com/project-ideas/software-project-ideas/> ou <http://www.ideaswatch.com/browse>
 
-Cronograma:
+## Cronograma
 
 - 12/09: Kick-off do projeto
-- 19/09: 1ª entrega
-- 03/10: 2ª entrega
-- 17/10: 3ª entrega
-- 24/10: 4ª entrega e apresentação
+- 26/09: 1ª entrega
+- 10/10: 2ª entrega
+- 24/10: 3ª entrega
 
-Equipes:
+## 1ª Entrega
+
+- todas as user stories do sistema (nível de detalhe médio)
+- escolher um subconjunto das user stories e criar:
+  - diagrama de classes
+  - diagrama de sequência (cenários mais importantes)
+  - protótipos de tela (sugestão: [moqups.com](https://moqups.com/))
+
+## 2ª Entrega
+
+- refinamento das user stories, diagramas e protótipos
+- diagramas e protótipos para user stories não usadas na entrega anterior
+
+## 3ª Entrega
+
+- refinamento das user stories, diagramas e protótipos
+- diagramas e protótipos para user stories não usadas na entrega anterior
+- apresentação
+
+## Equipes
 
 - Dieta: Renata, Andressa, Nailane
 - Home Cook: Iago, Malu, Thamires
