@@ -5,6 +5,8 @@ title: "(Peso 4) Projeto"
 date: 2016-09-19 20:20:00 -0300
 ---
 
+## Preparação
+
 - Equipes de 3 pessoas
 - Cada equipe deve escolher uma ideia de software que será projetado durante a disciplina
   - Está sem ideia? Pense em um problema na sua casa, universidade, trabalho, cidade...
@@ -17,24 +19,9 @@ date: 2016-09-19 20:20:00 -0300
 - 10/10: 2ª entrega
 - 24/10: 3ª entrega
 
-## 1ª Entrega
+## Orientações
 
-- todas as user stories do sistema (nível de detalhe médio)
-- escolher um subconjunto das user stories e criar:
-  - diagrama de classes
-  - diagrama de sequência (cenários mais importantes)
-  - protótipos de tela (sugestão: [moqups.com](https://moqups.com/))
-
-## 2ª Entrega
-
-- refinamento das user stories, diagramas e protótipos
-- diagramas e protótipos para user stories não usadas na entrega anterior
-
-## 3ª Entrega
-
-- refinamento das user stories, diagramas e protótipos
-- diagramas e protótipos para user stories não usadas na entrega anterior
-- apresentação
+Veja as orientações em <https://github.com/rodrigorgs/mata62-projeto>
 
 ## Equipes
 
