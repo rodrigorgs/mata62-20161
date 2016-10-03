@@ -30,5 +30,5 @@ Veja as orientações em <https://github.com/rodrigorgs/mata62-projeto>
 - The Alchemist: Nicolas, Rafael, Guilherme
 - Wolfram Micro: Gabriel, Roberto, Igor
 - Compart. de Imagens Médicas P2P: Raul, Erick, Pedro
-- Controle automotivo: Fabio, Vitor
+- Controle automotivo: Fabio, Vitor, Filipe
 
