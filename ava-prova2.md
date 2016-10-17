@@ -11,5 +11,5 @@ date: 2016-10-26 20:20:00 -0300
 	- [Factory Method](aula-factory)
 	- [Abstract Factory](aula-factory)
 	- [Composite](https://repl.it/classroom/invite/sB2sOe)
-	- [Decorator]((https://repl.it/classroom/invite/sB2sOe)
+	- [Decorator](https://repl.it/classroom/invite/sB2sOe)
 
